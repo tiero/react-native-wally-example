@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.6.3",
     "react-native": "0.58.5",
-    "react-native-wally": "https://github.com/tiero/react-native-wally.git"
+    "react-native-wally": "https://github.com/vulpemventures/react-native-wally.git"
   },
   "devDependencies": {
     "babel-core": "^7.0.0-bridge.0",
